@@ -1,7 +1,7 @@
 ### Hi there ! Welcome to my channel 👋
 
 
- 🔭 I am currently working on visual studio, subline text and Ps.  
+ 🔭 I am Front-end Developer so i am currently working on visual studio, subline text and Ps.  
  🌱 I am currently in my final year at the University of Greenwich.   
  👯 I'm looking to collaborate on some new platforms like AngularJs or ReactJs for frontend, Java Backend.  
  🤔 I am looking for help with my programming knowledge and would be happy if we could work together to develop.  
