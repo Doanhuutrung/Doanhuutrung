@@ -1,17 +1,17 @@
-<h1 align="center">Xin chào 👋, tôi là Hữu Trung</h1><h3 align="center">Một frontend developer đầy nhiệt huyết đến từ Việt Nam</h3>
+<h1 align="center">Hi 👋, I'm Huu Trung</h1>
+<h3 align="center">A passionate frontend developer from VietNam</h3>
 
+- 🌱 I’m currently learning **ReactJs**
 
-- Tôi hiện đang học **ReactJs**- Tất cả các dự án của tôi đều có sẵn tại [https://github.com/Doanhuutrung](https://github.com/Doanhuutrung)
+- 👨‍💻 All of my projects are available at [https://github.com/Doanhuutrung](https://github.com/Doanhuutrung)
 
-- Hỏi tôi về **React, Android**- 📫 💬 🌱 💻 👨 Cách liên hệ với tôi **huutrungdoan2107@gmail.com**
+- 💬 Ask me about **React, Android**
 
+- 📫 How to reach me **huutrungdoan2107@gmail.com**
 
+- ⚡ Fun fact **Even if the thing I put work into is not appreciated by others, good or terrible, I will still be extremely proud of it. I always think that whatever I do will leave the people around me with a unique and lasting impression of who I am.**
 
-
-
-- ⚡ Sự thật thú vị ** Ngay cả khi thứ tôi bỏ công sức vào không được người khác đánh giá cao, tốt hay khủng khiếp, tôi vẫn sẽ vô cùng tự hào về điều đó. Tôi luôn nghĩ rằng bất cứ điều gì tôi làm sẽ để lại cho những người xung quanh ấn tượng độc đáo và lâu dài về con người tôi.**
-
-<h3 align="left">Kết nối với tôi:</h3><p align="left">
+<h3 align="left">Connect with me:</h3>
 
 <a href="https://instagram.com/__trnqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__trnqq" height="30" width="40" /></a></p>
 
