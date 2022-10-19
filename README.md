@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huu Trung</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
+- 🔭 I'm Front-end Developer so i'm currently working on visual studio
+- 🏫 I'm currently in my final year at the University of Greenwich.
 - 🌱 I’m currently learning **ReactJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Doanhuutrung](https://github.com/Doanhuutrung)
-
 - 💬 Ask me about **React, Android**
-
 - 📫 How to reach me **huutrungdoan2107@gmail.com**
-
 - ⚡ Fun fact: **Even if the thing I put work into is not appreciated by others, good or terrible, I will still be extremely proud of it. I always think that whatever I do will leave the people around me with a unique and lasting impression of who I am.**
 
 <h3 align="left">Connect with me:</h3>
