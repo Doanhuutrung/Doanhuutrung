@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Huu Trung</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-- 🔭 I'm Front-end Developer so i'm currently working on visual studio
+- 🔭 I'm Front-end Developer so i'm currently working on visual studio.
 - 🏫 I'm currently in my final year at the University of Greenwich.
-- 🌱 I’m currently learning **ReactJs**
-- 👨‍💻 All of my projects are available at [https://github.com/Doanhuutrung](https://github.com/Doanhuutrung)
-- 💬 Ask me about **React, Android**
-- 📫 How to reach me **huutrungdoan2107@gmail.com**
+- 🌱 I’m currently learning: **ReactJs , Androi Studio**
+- 👨‍💻 All of my projects are available at: [https://github.com/Doanhuutrung](https://github.com/Doanhuutrung)
+- 💬 Ask me about: **React, Python**
+- 📫 How to reach me: **huutrungdoan2107@gmail.com**
 - ⚡ Fun fact: **Even if the thing I put work into is not appreciated by others, good or terrible, I will still be extremely proud of it. I always think that whatever I do will leave the people around me with a unique and lasting impression of who I am.**
 
 <h3 align="left">Connect with me:</h3>
-
+<a href="https://fb.com/bond.doan2202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bond.doan2202" height="30" width="40" /></a>
 <a href="https://instagram.com/__trnqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__trnqq" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
