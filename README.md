@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **huutrungdoan2107@gmail.com**
 
-- ⚡ Fun fact **Even if the thing I put work into is not appreciated by others, good or terrible, I will still be extremely proud of it. I always think that whatever I do will leave the people around me with a unique and lasting impression of who I am.**
+- ⚡ Fun fact: **Even if the thing I put work into is not appreciated by others, good or terrible, I will still be extremely proud of it. I always think that whatever I do will leave the people around me with a unique and lasting impression of who I am.**
 
 <h3 align="left">Connect with me:</h3>
 
