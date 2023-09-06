@@ -52,7 +52,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=395 src="http://github-readme-streak-stats.herokuapp.com/?user=Doanhuutrung&theme=radical&hide_border=true" alt="streak stats"/>
+  <img width=500 src="http://github-readme-streak-stats.herokuapp.com/?user=Doanhuutrung&theme=radical&hide_border=true" alt="streak stats"/>
 </br>
     <br> <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="top langs" /> </br>
 </div>
