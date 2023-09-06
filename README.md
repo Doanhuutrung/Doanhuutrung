@@ -54,12 +54,10 @@
 <br>
 <div align=center>
   <img width=390 src="http://github-readme-streak-stats.herokuapp.com/?user=Doanhuutrung&theme=radical&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?Doanhuutrung=anuraghazra&show_icons=true&theme=radical" alt="readme stats" />
-  <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 <hr/>
 
 <h3 align="center">
