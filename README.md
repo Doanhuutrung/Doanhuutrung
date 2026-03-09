@@ -22,7 +22,7 @@
   <a href="mailto:huutrungdoan2107@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/%C4%91o%C3%A0n-h%E1%BB%AFu-trung-5b150128a" target="_blank">
+  <a href="https://www.linkedin.com/in/huu-t-111258254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
